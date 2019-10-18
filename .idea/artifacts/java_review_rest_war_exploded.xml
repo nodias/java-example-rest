@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java-review-rest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/java-review-rest</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="java-review-rest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java-review-rest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
